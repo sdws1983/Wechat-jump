@@ -5,4 +5,4 @@ Win, Python2.7, adb tools
 ### Module
 pyHook, pywin32, pillow
 ### Useage
-Just run the jump.py script, click the start and end position when the pic present, then click twice times at any other region, it will done.
+Just run the `jump.py` script, click the start and end position when the pic present, then click twice times at any region.
